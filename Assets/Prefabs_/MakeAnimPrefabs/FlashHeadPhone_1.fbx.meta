@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: d27fb06a74ecd714ca6e015999007632
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -5982532141592281637
+    second: Cylinder001|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 1518690448257088164
+    second: Cylinder001|Cylinder001|Take 001|BaseLayer.001
+  - first:
+      74: 4881347901085224947
+    second: Cylinder001|Cylinder001|Take 001|BaseLayer.002
+  - first:
+      74: -7919939586050131219
+    second: Cylinder001|Line002|Take 001|BaseLayer
+  - first:
+      74: 6759245984779702289
+    second: Cylinder001|Line002|Take 001|BaseLayer.001
+  - first:
+      74: -4476513892422334814
+    second: Cylinder001|Line002|Take 001|BaseLayer.002
+  - first:
+      74: 6887837778853288031
+    second: Cylinder001|Object001|Take 001|BaseLayer
+  - first:
+      74: -3329921275445049346
+    second: Cylinder001|Object001|Take 001|BaseLayer.001
+  - first:
+      74: 1994589613137398178
+    second: Cylinder001|Object001|Take 001|BaseLayer.002
+  - first:
+      74: 3636106195616251802
+    second: Cylinder001|Object002|Take 001|BaseLayer
+  - first:
+      74: 7930990002870213520
+    second: Cylinder001|Object002|Take 001|BaseLayer.001
+  - first:
+      74: 4220948432116265214
+    second: Cylinder001|Object002|Take 001|BaseLayer.002
+  - first:
+      74: -6660438888181569336
+    second: Line002|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 936604999540559106
+    second: Line002|Cylinder001|Take 001|BaseLayer.001
+  - first:
+      74: -747375122582515006
+    second: Line002|Cylinder001|Take 001|BaseLayer.002
+  - first:
+      74: 1678052531027664347
+    second: Line002|Line002|Take 001|BaseLayer
+  - first:
+      74: -6341769251082553271
+    second: Line002|Line002|Take 001|BaseLayer.001
+  - first:
+      74: -8689642138155409480
+    second: Line002|Line002|Take 001|BaseLayer.002
+  - first:
+      74: -4922787604169107200
+    second: Line002|Object001|Take 001|BaseLayer
+  - first:
+      74: 4058077404935216087
+    second: Line002|Object001|Take 001|BaseLayer.001
+  - first:
+      74: -4313924686741635861
+    second: Line002|Object001|Take 001|BaseLayer.002
+  - first:
+      74: 1676103149970053485
+    second: Line002|Object002|Take 001|BaseLayer
+  - first:
+      74: 8721994140508372612
+    second: Line002|Object002|Take 001|BaseLayer.001
+  - first:
+      74: -6095127000861667845
+    second: Line002|Object002|Take 001|BaseLayer.002
+  - first:
+      74: 2432890047243576386
+    second: Object001|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -1330290918132030137
+    second: Object001|Cylinder001|Take 001|BaseLayer.001
+  - first:
+      74: -6599075908422432727
+    second: Object001|Cylinder001|Take 001|BaseLayer.002
+  - first:
+      74: -1552786294842071458
+    second: Object001|Line002|Take 001|BaseLayer
+  - first:
+      74: -6457777885832598886
+    second: Object001|Line002|Take 001|BaseLayer.001
+  - first:
+      74: -7383057674687424543
+    second: Object001|Line002|Take 001|BaseLayer.002
+  - first:
+      74: -1951999145027632924
+    second: Object001|Object001|Take 001|BaseLayer
+  - first:
+      74: -5888802664403232739
+    second: Object001|Object001|Take 001|BaseLayer.001
+  - first:
+      74: 5348161584078535111
+    second: Object001|Object001|Take 001|BaseLayer.002
+  - first:
+      74: -4926166871046787513
+    second: Object001|Object002|Take 001|BaseLayer
+  - first:
+      74: -6281256224948585782
+    second: Object001|Object002|Take 001|BaseLayer.001
+  - first:
+      74: 4438001142954699726
+    second: Object001|Object002|Take 001|BaseLayer.002
+  - first:
+      74: -4608436650423813237
+    second: Object002|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 1482078720587334380
+    second: Object002|Cylinder001|Take 001|BaseLayer.001
+  - first:
+      74: -360636769588647616
+    second: Object002|Cylinder001|Take 001|BaseLayer.002
+  - first:
+      74: -1364453651582444062
+    second: Object002|Line002|Take 001|BaseLayer
+  - first:
+      74: -3199414401357717531
+    second: Object002|Line002|Take 001|BaseLayer.001
+  - first:
+      74: -6692400918391134721
+    second: Object002|Line002|Take 001|BaseLayer.002
+  - first:
+      74: -4947253048100400662
+    second: Object002|Object001|Take 001|BaseLayer
+  - first:
+      74: -4351126633160842730
+    second: Object002|Object001|Take 001|BaseLayer.001
+  - first:
+      74: -5904761803369276937
+    second: Object002|Object001|Take 001|BaseLayer.002
+  - first:
+      74: -8793137844476560109
+    second: Object002|Object002|Take 001|BaseLayer
+  - first:
+      74: 2983303480835144870
+    second: Object002|Object002|Take 001|BaseLayer.001
+  - first:
+      74: -107643692274319813
+    second: Object002|Object002|Take 001|BaseLayer.002
+  - first:
+      74: -1322884175705086509
+    second: Cylinder001.001|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 5019362452195732326
+    second: Cylinder001.001|Cylinder001|Take 001|BaseLayer.001
+  - first:
+      74: 7091428249641063814
+    second: Cylinder001.001|Cylinder001|Take 001|BaseLayer.002
+  - first:
+      74: -4680662457186501541
+    second: Cylinder001.001|Line002|Take 001|BaseLayer
+  - first:
+      74: 3778429677430435837
+    second: Cylinder001.001|Line002|Take 001|BaseLayer.001
+  - first:
+      74: 6067719042285424193
+    second: Cylinder001.001|Line002|Take 001|BaseLayer.002
+  - first:
+      74: -823685857600484994
+    second: Cylinder001.001|Object001|Take 001|BaseLayer
+  - first:
+      74: 6340266813448929446
+    second: Cylinder001.001|Object001|Take 001|BaseLayer.001
+  - first:
+      74: -8555049741642759321
+    second: Cylinder001.001|Object001|Take 001|BaseLayer.002
+  - first:
+      74: 5947297259555366413
+    second: Cylinder001.001|Object002|Take 001|BaseLayer
+  - first:
+      74: 618773649886348908
+    second: Cylinder001.001|Object002|Take 001|BaseLayer.001
+  - first:
+      74: 5456812237832854391
+    second: Cylinder001.001|Object002|Take 001|BaseLayer.002
+  - first:
+      74: 1210681240788635283
+    second: Line002.001|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 8010295940993312021
+    second: Line002.001|Cylinder001|Take 001|BaseLayer.001
+  - first:
+      74: 2972437248426593764
+    second: Line002.001|Cylinder001|Take 001|BaseLayer.002
+  - first:
+      74: -117106554544985475
+    second: Line002.001|Line002|Take 001|BaseLayer
+  - first:
+      74: 4884620715360904136
+    second: Line002.001|Line002|Take 001|BaseLayer.001
+  - first:
+      74: 1243202375197000143
+    second: Line002.001|Line002|Take 001|BaseLayer.002
+  - first:
+      74: 5175612801089246133
+    second: Line002.001|Object001|Take 001|BaseLayer
+  - first:
+      74: 850715329871182344
+    second: Line002.001|Object001|Take 001|BaseLayer.001
+  - first:
+      74: -8770870419454355104
+    second: Line002.001|Object001|Take 001|BaseLayer.002
+  - first:
+      74: -2247152358097319612
+    second: Line002.001|Object002|Take 001|BaseLayer
+  - first:
+      74: -4262598597689748041
+    second: Line002.001|Object002|Take 001|BaseLayer.001
+  - first:
+      74: -957054247652706200
+    second: Line002.001|Object002|Take 001|BaseLayer.002
+  - first:
+      74: -4967745759737537575
+    second: Object001.001|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 5158018673304373089
+    second: Object001.001|Cylinder001|Take 001|BaseLayer.001
+  - first:
+      74: 6399500104578302763
+    second: Object001.001|Cylinder001|Take 001|BaseLayer.002
+  - first:
+      74: -8211754070287385819
+    second: Object001.001|Line002|Take 001|BaseLayer
+  - first:
+      74: 6434107986870367268
+    second: Object001.001|Line002|Take 001|BaseLayer.001
+  - first:
+      74: 1325935560332775676
+    second: Object001.001|Line002|Take 001|BaseLayer.002
+  - first:
+      74: 6903230361026956469
+    second: Object001.001|Object001|Take 001|BaseLayer
+  - first:
+      74: -9066374485482225670
+    second: Object001.001|Object001|Take 001|BaseLayer.001
+  - first:
+      74: -3522431944748219488
+    second: Object001.001|Object001|Take 001|BaseLayer.002
+  - first:
+      74: 194205503135762493
+    second: Object001.001|Object002|Take 001|BaseLayer
+  - first:
+      74: 7178600660194112143
+    second: Object001.001|Object002|Take 001|BaseLayer.001
+  - first:
+      74: -1441550021964916018
+    second: Object001.001|Object002|Take 001|BaseLayer.002
+  - first:
+      74: 7153127102547761062
+    second: Object002.001|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -5656334300538628430
+    second: Object002.001|Cylinder001|Take 001|BaseLayer.001
+  - first:
+      74: -8565006683736210811
+    second: Object002.001|Cylinder001|Take 001|BaseLayer.002
+  - first:
+      74: 2747052552345494697
+    second: Object002.001|Line002|Take 001|BaseLayer
+  - first:
+      74: -1711512515007957673
+    second: Object002.001|Line002|Take 001|BaseLayer.001
+  - first:
+      74: 4309122181525928510
+    second: Object002.001|Line002|Take 001|BaseLayer.002
+  - first:
+      74: -132771614958548216
+    second: Object002.001|Object001|Take 001|BaseLayer
+  - first:
+      74: 3198740254377400811
+    second: Object002.001|Object001|Take 001|BaseLayer.001
+  - first:
+      74: 5910174425788605230
+    second: Object002.001|Object001|Take 001|BaseLayer.002
+  - first:
+      74: -9125349263713134926
+    second: Object002.001|Object002|Take 001|BaseLayer
+  - first:
+      74: -4799261383396907415
+    second: Object002.001|Object002|Take 001|BaseLayer.001
+  - first:
+      74: -4015667298580592049
+    second: Object002.001|Object002|Take 001|BaseLayer.002
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 1
+    maxBonesPerVertex: 1
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: FlashHeadPhone_1(Clone)
+      parentName: 
+      position: {x: 0.0000002644095, y: 1.7701707, z: -0.0025435996}
+      rotation: {x: 0.0000000754979, y: 1, z: -0.000000037748947, w: -0.000000043711392}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder001
+      parentName: FlashHeadPhone_1(Clone)
+      position: {x: -2.8788633e-11, y: -0.017701706, z: -0.00002543466}
+      rotation: {x: 6.1232356e-17, y: 1, z: -0.00000021656294, w: 6.123233e-17}
+      scale: {x: 0.001, y: 0.001, z: 0.0007149096}
+    - name: Line002
+      parentName: Cylinder001
+      position: {x: -5.4708266e-10, y: 0.000000011668637, z: 0.09548567}
+      rotation: {x: -0.0000000024051614, y: 0.17984676, z: -0.000000030618487, w: 0.9836947}
+      scale: {x: 1.0544661, y: 1, z: 1.6344376}
+    - name: Object001
+      parentName: Cylinder001
+      position: {x: -2.821187e-39, y: -6.617445e-26, z: -5.551115e-19}
+      rotation: {x: 3.5527137e-15, y: -6.0788203e-31, z: -1.2621775e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: Object002
+      parentName: Cylinder001
+      position: {x: -2.821187e-39, y: -6.617445e-26, z: -5.551115e-19}
+      rotation: {x: 3.5527137e-15, y: -6.0788203e-31, z: -1.2621775e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: Cylinder001.001
+      parentName: FlashHeadPhone_1(Clone)
+      position: {x: -2.8788633e-11, y: -0.017701706, z: -0.00002543466}
+      rotation: {x: 0.000000048420514, y: 0.9848078, z: -0.00000010105431, w: -0.1736481}
+      scale: {x: 0.001, y: 0.001, z: 0.0007149096}
+    - name: Line002.001
+      parentName: Cylinder001.001
+      position: {x: 0.0000000023820959, y: 0.000000011668636, z: 0.095485665}
+      rotation: {x: -0.0000000024051696, y: 0.17984684, z: -0.000000030618487, w: 0.9836947}
+      scale: {x: 1.0544661, y: 1, z: 1.6344373}
+    - name: Object001.001
+      parentName: Cylinder001.001
+      position: {x: -1.3877787e-19, y: 0, z: 0}
+      rotation: {x: -0.0000000062015646, y: 0.17984678, z: -0.000000045600917, w: 0.9836947}
+      scale: {x: 1.0544661, y: 1, z: 0.9709837}
+    - name: Object002.001
+      parentName: Cylinder001.001
+      position: {x: -1.3877787e-19, y: 0, z: 0}
+      rotation: {x: -0.0000000062015646, y: 0.17984678, z: -0.000000045600917, w: 0.9836947}
+      scale: {x: 1.0544661, y: 1, z: 0.9709837}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

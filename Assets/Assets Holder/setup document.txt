@@ -1,0 +1,17 @@
+How to setup Progress Bar  in your project:
+
+1> add player script to your player.
+2> upload hyper casual  base(for example) to Hierarchy window .
+3> add Level progress Script to hyper casual base.
+4> Now in Level progress component upload your player , Finish point(target).
+5> Now add bar that to be filled in hierarchy window and go to its 
+  Image component>Image type>Filled>Filled methord:Horizontal>Fill origin:left
+
+
+
+
+ ************************* Thank You *******************************
+
+Best of luck 
+
+   

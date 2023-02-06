@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930533980740",
+    "project_id": "hide-and-seek-488aa",
+    "storage_bucket": "hide-and-seek-488aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930533980740:android:60006ce2db535190905a11",
+        "android_client_info": {
+          "package_name": "com.heallios.HideAndSeek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930533980740-mefdgfptlhjd988aiq0qc6io8r91r19r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA29V1j9kjYdXLk39b5At0ZGxiJhBOJRuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930533980740-mefdgfptlhjd988aiq0qc6io8r91r19r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

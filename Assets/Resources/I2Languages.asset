@@ -1,0 +1,1431 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 0
+    mTerms:
+    - Term: Seek
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\xECm"
+      - Seek
+      Flags: 
+      Languages_Touch: []
+    - Term: Hide
+      TermType: 0
+      Description: 
+      Languages:
+      - "Tr\u1ED1n"
+      - Hide
+      Flags: 
+      Languages_Touch: []
+    - Term: Loading
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110ang t\u1EA3i ..."
+      - Loading ...
+      Flags: 
+      Languages_Touch: []
+    - Term: Scan
+      TermType: 0
+      Description: 
+      Languages:
+      - "Qu\xE9t"
+      - Scan
+      Flags: 
+      Languages_Touch: []
+    - Term: Trophy
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\xFAp"
+      - Trophy
+      Flags: 
+      Languages_Touch: []
+    - Term: Button
+      TermType: 0
+      Description: 
+      Languages:
+      - "N\xFAt"
+      - Button
+      Flags: 
+      Languages_Touch: []
+    - Term: Player
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ng\u01B0\u1EDDi ch\u01A1i"
+      - Player
+      Flags: 
+      Languages_Touch: []
+    - Term: Win
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chi\u1EBFn th\u1EAFng"
+      - Win
+      Flags: 
+      Languages_Touch: []
+    - Term: Friends
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EA1n b\xE8"
+      - Friends
+      Flags: 
+      Languages_Touch: []
+    - Term: List
+      TermType: 0
+      Description: 
+      Languages:
+      - "Danh s\xE1ch"
+      - List
+      Flags: 
+      Languages_Touch: []
+    - Term: Online
+      TermType: 0
+      Description: 
+      Languages:
+      - Online
+      - Online
+      Flags: 
+      Languages_Touch: []
+    - Term: Offline
+      TermType: 0
+      Description: 
+      Languages:
+      - Offline
+      - Offline
+      Flags: 
+      Languages_Touch: []
+    - Term: Playing
+      TermType: 0
+      Description: 
+      Languages:
+      - "Trong tr\u1EADn"
+      - Playing
+      Flags: 
+      Languages_Touch: []
+    - Term: Add
+      TermType: 0
+      Description: 
+      Languages:
+      - "Th\xEAm"
+      - Add
+      Flags: 
+      Languages_Touch: []
+    - Term: Friend
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EA1n "
+      - 'Friend '
+      Flags: 
+      Languages_Touch: []
+    - Term: Characters
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nh\xE2n v\u1EADt"
+      - Characters
+      Flags: 
+      Languages_Touch: []
+    - Term: Skill
+      TermType: 0
+      Description: 
+      Languages:
+      - "K\u1EF9 n\u0103ng"
+      - Skill
+      Flags: 
+      Languages_Touch: []
+    - Term: Skin
+      TermType: 0
+      Description: 
+      Languages:
+      - "Trang ph\u1EE5c"
+      - Skin
+      Flags: 
+      Languages_Touch: []
+    - Term: Info
+      TermType: 0
+      Description: 
+      Languages:
+      - "TH\xD4NG TIN"
+      - INFO
+      Flags: 
+      Languages_Touch: []
+    - Term: And
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\xE0"
+      - And
+      Flags: 
+      Languages_Touch: []
+    - Term: Character
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nh\xE2n v\u1EADt"
+      - 'Character '
+      Flags: 
+      Languages_Touch: []
+    - Term: Join
+      TermType: 0
+      Description: 
+      Languages:
+      - Tham gia
+      - Join
+      Flags: 
+      Languages_Touch: []
+    - Term: Create
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u1EA1o"
+      - Create
+      Flags: 
+      Languages_Touch: []
+    - Term: Quick
+      TermType: 0
+      Description: 
+      Languages:
+      - Nhanh
+      - Quick
+      Flags: 
+      Languages_Touch: []
+    - Term: Play
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ch\u01A1i"
+      - Play
+      Flags: 
+      Languages_Touch: []
+    - Term: Rank
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\u1EA1ng"
+      - Rank
+      Flags: 
+      Languages_Touch: []
+    - Term: Quest
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nhi\u1EC7m v\u1EE5"
+      - Quest
+      Flags: 
+      Languages_Touch: []
+    - Term: Tutorial
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\u01B0\u1EDBng d\u1EABn"
+      - Tutorial
+      Flags: 
+      Languages_Touch: []
+    - Term: Want
+      TermType: 0
+      Description: 
+      Languages:
+      - "Mu\u1ED1n"
+      - Want
+      Flags: 
+      Languages_Touch: []
+    - Term: Recovery
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\u1ED3i ph\u1EE5c"
+      - Recovery
+      Flags: 
+      Languages_Touch: []
+    - Term: Energy
+      TermType: 0
+      Description: 
+      Languages:
+      - "N\u0103ng l\u01B0\u1EE3ng"
+      - "N\u0103ng l\u01B0\u1EE3ng"
+      Flags: 
+      Languages_Touch: []
+    - Term: You
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EA1n"
+      - You
+      Flags: 
+      Languages_Touch: []
+    - Term: Not
+      TermType: 0
+      Description: 
+      Languages:
+      - "Kh\xF4ng"
+      - Not
+      Flags: 
+      Languages_Touch: []
+    - Term: Enought
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110\u1EE7"
+      - Enought
+      Flags: 
+      Languages_Touch: []
+    - Term: Shop
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\u1EEDa h\xE0ng"
+      - Shop
+      Flags: 
+      Languages_Touch: []
+    - Term: Switch
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110\u1ED5i"
+      - Switch
+      Flags: 
+      Languages_Touch: []
+    - Term: Earning
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ki\u1EBFm"
+      - Earning
+      Flags: 
+      Languages_Touch: []
+    - Term: Transform
+      TermType: 0
+      Description: 
+      Languages:
+      - "Bi\u1EBFn \u0111\u1ED5i"
+      - Transform
+      Flags: 
+      Languages_Touch: []
+    - Term: Wizard
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ph\xF9 th\u1EE7y"
+      - Wizard
+      Flags: 
+      Languages_Touch: []
+    - Term: Speed
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u1ED1c \u0111\u1ED9"
+      - Speed
+      Flags: 
+      Languages_Touch: []
+    - Term: Man
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ng\u01B0\u1EDDi "
+      - Man
+      Flags: 
+      Languages_Touch: []
+    - Term: Use
+      TermType: 0
+      Description: 
+      Languages:
+      - "D\xF9ng"
+      - Use
+      Flags: 
+      Languages_Touch: []
+    - Term: Into
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\xE0o trong"
+      - Into
+      Flags: 
+      Languages_Touch: []
+    - Term: A
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u1ED9t"
+      - A
+      Flags: 
+      Languages_Touch: []
+    - Term: Small
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nh\u1ECF"
+      - Small
+      Flags: 
+      Languages_Touch: []
+    - Term: Object
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\u1EADt th\u1EC3"
+      - Object
+      Flags: 
+      Languages_Touch: []
+    - Term: Or
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ho\u1EB7c"
+      - Or
+      Flags: 
+      Languages_Touch: []
+    - Term: But
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nh\u01B0ng"
+      - 'But '
+      Flags: 
+      Languages_Touch: []
+    - Term: Fake
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3"
+      - Fake
+      Flags: 
+      Languages_Touch: []
+    - Term: Back
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ph\xEDa sau"
+      - Back
+      Flags: 
+      Languages_Touch: []
+    - Term: Become
+      TermType: 0
+      Description: 
+      Languages:
+      - "Tr\u1EDF th\xE0nh"
+      - Become
+      Flags: 
+      Languages_Touch: []
+    - Term: Invisible
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\xE0ng h\xECnh"
+      - Invisible
+      Flags: 
+      Languages_Touch: []
+    - Term: To
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110\u1EC3"
+      - To
+      Flags: 
+      Languages_Touch: []
+    - Term: Change
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chuy\u1EC3n \u0111\u1ED5i"
+      - Change
+      Flags: 
+      Languages_Touch: []
+    - Term: Shoot
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EAFn"
+      - Shoot
+      Flags: 
+      Languages_Touch: []
+    - Term: Bullet
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110\u1EA1n"
+      - Bullet
+      Flags: 
+      Languages_Touch: []
+    - Term: Fear
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ho\u1EA3ng s\u1EE3"
+      - Fear
+      Flags: 
+      Languages_Touch: []
+    - Term: Buff
+      TermType: 0
+      Description: 
+      Languages:
+      - Buff
+      - Buff
+      Flags: 
+      Languages_Touch: []
+    - Term: For
+      TermType: 0
+      Description: 
+      Languages:
+      - Cho
+      - For
+      Flags: 
+      Languages_Touch: []
+    - Term: Black
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110en"
+      - Black
+      Flags: 
+      Languages_Touch: []
+    - Term: Hole
+      TermType: 0
+      Description: 
+      Languages:
+      - "L\u1ED7"
+      - Hole
+      Flags: 
+      Languages_Touch: []
+    - Term: Absorb
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\xFAt"
+      - Absorb
+      Flags: 
+      Languages_Touch: []
+    - Term: Seekers
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nh\u1EEFng ng\u01B0\u1EDDi tr\u1ED1n"
+      - Seekers
+      Flags: 
+      Languages_Touch: []
+    - Term: Around
+      TermType: 0
+      Description: 
+      Languages:
+      - Xung quanh
+      - Around
+      Flags: 
+      Languages_Touch: []
+    - Term: Joker
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\u1EC1"
+      - Joker
+      Flags: 
+      Languages_Touch: []
+    - Term: Summon
+      TermType: 0
+      Description: 
+      Languages:
+      - "Tri\u1EC7u h\u1ED3i"
+      - Summon
+      Flags: 
+      Languages_Touch: []
+    - Term: Raven
+      TermType: 0
+      Description: 
+      Languages:
+      - "Con Qu\u1EA1"
+      - Raven
+      Flags: 
+      Languages_Touch: []
+    - Term: Clone
+      TermType: 0
+      Description: 
+      Languages:
+      - Clone
+      - Clone
+      Flags: 
+      Languages_Touch: []
+    - Term: Rushing
+      TermType: 0
+      Description: 
+      Languages:
+      - "Lao l\xEAn"
+      - Rushing
+      Flags: 
+      Languages_Touch: []
+    - Term: Forward
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ph\xEDa tr\u01B0\u1EDBc"
+      - Forward
+      Flags: 
+      Languages_Touch: []
+    - Term: Confusion
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ng\u1EDB ng\u1EA9n"
+      - Confusion
+      Flags: 
+      Languages_Touch: []
+    - Term: Controll
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110i\u1EC1u khi\u1EC3n"
+      - Controll
+      Flags: 
+      Languages_Touch: []
+    - Term: Controlling
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110ang \u0111i\u1EC1u khi\u1EC3n"
+      - Controlling
+      Flags: 
+      Languages_Touch: []
+    - Term: When
+      TermType: 0
+      Description: 
+      Languages:
+      - Khi
+      - When
+      Flags: 
+      Languages_Touch: []
+    - Term: Up
+      TermType: 0
+      Description: 
+      Languages:
+      - "L\xEAn"
+      - Up
+      Flags: 
+      Languages_Touch: []
+    - Term: After
+      TermType: 0
+      Description: 
+      Languages:
+      - "Sau \u0111\xF3"
+      - After
+      Flags: 
+      Languages_Touch: []
+    - Term: That
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110\xF3"
+      - That
+      Flags: 
+      Languages_Touch: []
+    - Term: Will
+      TermType: 0
+      Description: 
+      Languages:
+      - "S\u1EBD"
+      - Will
+      Flags: 
+      Languages_Touch: []
+    - Term: Slow
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ch\u1EADm"
+      - Slow
+      Flags: 
+      Languages_Touch: []
+    - Term: Normal
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\xECnh th\u01B0\u1EDDng"
+      - Normal
+      Flags: 
+      Languages_Touch: []
+    - Term: Reset
+      TermType: 0
+      Description: 
+      Languages:
+      - "Thi\u1EBFt l\u1EADp l\u1EA1i"
+      - Reset
+      Flags: 
+      Languages_Touch: []
+    - Term: Max
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u1ED1i \u0111a"
+      - Max
+      Flags: 
+      Languages_Touch: []
+    - Term: Children
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Con '
+      - Children
+      Flags: 
+      Languages_Touch: []
+    - Term: Can
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\xF3 th\u1EC3"
+      - Can
+      Flags: 
+      Languages_Touch: []
+    - Term: Detect
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ph\xE1t hi\u1EC7n"
+      - Detect
+      Flags: 
+      Languages_Touch: []
+    - Term: An
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u1ED9t"
+      - An
+      Flags: 
+      Languages_Touch: []
+    - Term: Area
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\xF9ng"
+      - Area
+      Flags: 
+      Languages_Touch: []
+    - Term: Make
+      TermType: 0
+      Description: 
+      Languages:
+      - "L\xE0m"
+      - Make
+      Flags: 
+      Languages_Touch: []
+    - Term: Mummy
+      TermType: 0
+      Description: 
+      Languages:
+      - "X\xE1c s\u1ED1ng"
+      - Mummy
+      Flags: 
+      Languages_Touch: []
+    - Term: Collect
+      TermType: 0
+      Description: 
+      Languages:
+      - "Thu th\u1EADp"
+      - Collect
+      Flags: 
+      Languages_Touch: []
+    - Term: Daily
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\u1EB1ng ng\xE0y"
+      - Daily
+      Flags: 
+      Languages_Touch: []
+    - Term: Mission
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nhi\u1EC7m v\u1EE5"
+      - Mission
+      Flags: 
+      Languages_Touch: []
+    - Term: Missions
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\xE1c nhi\u1EC7m v\u1EE5"
+      - Missions
+      Flags: 
+      Languages_Touch: []
+    - Term: All
+      TermType: 0
+      Description: 
+      Languages:
+      - "To\xE0n b\u1ED9"
+      - All
+      Flags: 
+      Languages_Touch: []
+    - Term: Reward
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ph\u1EA7n th\u01B0\u1EDFng"
+      - Reward
+      Flags: 
+      Languages_Touch: []
+    - Term: Rewards
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\xE1c ph\u1EA7n th\u01B0\u1EDFng"
+      - Rewards
+      Flags: 
+      Languages_Touch: []
+    - Term: Silent
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\xE2m l\u1EB7ng"
+      - Silent
+      Flags: 
+      Languages_Touch: []
+    - Term: Fill
+      TermType: 0
+      Description: 
+      Languages:
+      - "L\u1EAFp \u0111\u1EA7y"
+      - Fill
+      Flags: 
+      Languages_Touch: []
+    - Term: Term 999
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      Flags: 
+      Languages_Touch: []
+    - Term: QUICK PLAY
+      TermType: 0
+      Description: 
+      Languages:
+      - "CH\u01A0I NGAY"
+      - QUICK PLAY
+      Flags: 
+      Languages_Touch: []
+    - Term: STATS
+      TermType: 0
+      Description: 
+      Languages:
+      - "CH\u1EC8 S\u1ED0"
+      - STARTS
+      Flags: 
+      Languages_Touch: []
+    - Term: Pusia-Bold SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - Pusia-Bold SDF
+      - LilitaOne-Regular Outline 72 SDF
+      Flags: 
+      Languages_Touch: []
+    - Term: 'EARNING:'
+      TermType: 0
+      Description: 
+      Languages:
+      - "NH\u1EACN \u0110\u01AF\u1EE2C"
+      - EARNING
+      Flags: 
+      Languages_Touch: []
+    - Term: 'MODE:'
+      TermType: 0
+      Description: 
+      Languages:
+      - "CH\u1EBE \u0110\u1ED8 :"
+      - 'MODE :'
+      Flags: 
+      Languages_Touch: []
+    - Term: HIDE N' SEEK
+      TermType: 0
+      Description: 
+      Languages:
+      - "TR\u1ED0N T\xCCM"
+      - HIDE N' SEEK
+      Flags: 
+      Languages_Touch: []
+    - Term: LilitaOne-Regular Outline 54 SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - Pusia-Bold SDF
+      - LilitaOne-Regular Outline 72 SDF
+      Flags: 
+      Languages_Touch: []
+    - Term: NOT ENOUGHT ENERGY
+      TermType: 0
+      Description: 
+      Languages:
+      - "KH\xD4NG \u0110\u1EE6 N\u0102NG L\u01AF\u1EE2NG"
+      - NOT ENOUGHT ENERGY
+      Flags: 
+      Languages_Touch: []
+    - Term: DO YOU WANT RECOVER ENERGY?
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EA0N C\xD3 MU\u1ED0N MUA TH\xCAM N\u0102NG L\u01AF\u1EE2NG?"
+      - DO YOU WANT RECOVER ENERGY?
+      Flags: 
+      Languages_Touch: []
+    - Term: LilitaOne-Regular SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - Pusia-Bold SDF
+      - LilitaOne-Regular Outline 72 SDF
+      Flags: 
+      Languages_Touch: []
+    - Term: INPUT CODE ROOM
+      TermType: 0
+      Description: 
+      Languages:
+      - "NH\u1EACP M\xC3 PH\xD2NG"
+      - INPUT CODE ROOM
+      Flags: 
+      Languages_Touch: []
+    - Term: '* ASK YOUR FRIENTS ABOUT THEIR ROOM CODE OR ROOM NAME.'
+      TermType: 0
+      Description: 
+      Languages:
+      - "* H\u1ECEI B\u1EA0N B\xC8 V\u1EC0 M\xC3 PH\xD2NG HO\u1EB6C T\xCAN PH\xD2NG"
+      - '* ASK YOUR FRIENTS ABOUT THEIR ROOM CODE OR ROOM NAME.'
+      Flags: 
+      Languages_Touch: []
+    - Term: CHANGE YOUR NAME
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110\u1ED4I T\xCAN"
+      - CHANGE YOUR NAME
+      Flags: 
+      Languages_Touch: []
+    - Term: CHANGE NAME
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110\u1ED4I T\xCAN"
+      - CHANGE NAME
+      Flags: 
+      Languages_Touch: []
+    - Term: LilitaOne-Regular Outline 50 SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - Pusia-Bold SDF
+      - LilitaOne-Regular Outline 72 SDF
+      Flags: 
+      Languages_Touch: []
+    - Term: CREATE ROOM
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u1EA0O PH\xD2NG"
+      - CREATE ROOM
+      Flags: 
+      Languages_Touch: []
+    - Term: MAX 10 PLAYERS IN 1 ROOM
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u1ED0I \u0110A 10 NG\u01AF\u01A0I CH\u01A0I TRONG 1 PH\xD2NG"
+      - MAX 10 PLAYERS IN 1 ROOM
+      Flags: 
+      Languages_Touch: []
+    - Term: SETTING
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\xC0I \u0110\u1EB6T"
+      - SETTING
+      Flags: 
+      Languages_Touch: []
+    - Term: QUALITY
+      TermType: 0
+      Description: 
+      Languages:
+      - "CH\u1EA4T L\u01AF\u1EE2NG"
+      - QUALITY
+      Flags: 
+      Languages_Touch: []
+    - Term: LANGUAGE
+      TermType: 0
+      Description: 
+      Languages:
+      - "NG\xD4N NG\u1EEE"
+      - LANGUAGE
+      Flags: 
+      Languages_Touch: []
+    - Term: FIND FRIEND
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\xCCM B\u1EA0N"
+      - FIND FRIEND
+      Flags: 
+      Languages_Touch: []
+    - Term: Requests
+      TermType: 0
+      Description: 
+      Languages:
+      - "Y\xEAu C\u1EA7u"
+      - Requests
+      Flags: 
+      Languages_Touch: []
+    - Term: Black List
+      TermType: 0
+      Description: 
+      Languages:
+      - "S\u1ED5 \u0111en"
+      - Black List
+      Flags: 
+      Languages_Touch: []
+    - Term: Ranking
+      TermType: 0
+      Description: 
+      Languages:
+      - "X\u1EBFp h\u1EA1ng"
+      - Ranking
+      Flags: 
+      Languages_Touch: []
+    - Term: LilitaOne-Regular Outline 64 SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - Pusia-Bold SDF
+      - LilitaOne-Regular Outline 72 SDF
+      Flags: 
+      Languages_Touch: []
+    - Term: Golbal
+      TermType: 0
+      Description: 
+      Languages:
+      - "Qu\u1ED1c t\u1EBF"
+      - Golbal
+      Flags: 
+      Languages_Touch: []
+    - Term: SCAN TIME
+      TermType: 0
+      Description: 
+      Languages:
+      - "Rada Qu\xE9t"
+      - SCAN TIME
+      Flags: 
+      Languages_Touch: []
+    - Term: LilitaOne-Regular Outline 32 SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - Pusia-Bold SDF
+      - LilitaOne-Regular Outline 120 SDF
+      Flags: 
+      Languages_Touch: []
+    - Term: ESCAPE
+      TermType: 0
+      Description: 
+      Languages:
+      - "THO\xC1T TH\xD4I !!!"
+      - ESCAPE !!!
+      Flags: 
+      Languages_Touch: []
+    - Term: LilitaOne-Regular Outline 210 SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - Pusia-Bold SDF
+      - LilitaOne-Regular Outline 210 SDF
+      Flags: 
+      Languages_Touch: []
+    - Term: Seekers appear
+      TermType: 0
+      Description: 
+      Languages:
+      - "Seekers xu\u1EA5t hi\u1EC7n !!!"
+      - Seekers appear !!!
+      Flags: 
+      Languages_Touch: []
+    - Term: Nougat-ExtraBlack
+      TermType: 1
+      Description: 
+      Languages:
+      - Pusia-Bold
+      - LilitaOne-Regular
+      Flags: 
+      Languages_Touch: []
+    - Term: GET BACK IN THE RING
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\xC0O BO L\u1EA0I !!!"
+      - GET BACK IN THE RING !!!
+      Flags: 
+      Languages_Touch: []
+    - Term: 'PRO TIPS:'
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\xCD K\xCDP:"
+      - 'PRO TIPS:'
+      Flags: 
+      Languages_Touch: []
+    - Term: LilitaOne-Regular Outline 120 SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - Pusia-Bold SDF
+      - LilitaOne-Regular Outline 120 SDF
+      Flags: 
+      Languages_Touch: []
+    - Term: '* DON''T STAND OUT SAFE ZONE OR YOU WILL BE FIND OUT BY ENEMIES'
+      TermType: 0
+      Description: 
+      Languages:
+      - "* \u0110\u1EEBng ra kh\u1ECFi bo"
+      - '* DON''T STAND OUT SAFE ZONE'
+      Flags: 
+      Languages_Touch: []
+    - Term: '* THERE WILL BE 4 ZONES AND THE GATE WILL APPEAR IN LAST ZONE'
+      TermType: 0
+      Description: 
+      Languages:
+      - "* Sau 4 bo, c\u1ED5ng s\u1EBD xu\u1EA5t hi\u1EC7n"
+      - '* AFTER 4 ZONES, THE GATE WILL APPEAR'
+      Flags: 
+      Languages_Touch: []
+    - Term: START
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EAFt \u0111\u1EA7u"
+      - START
+      Flags: 
+      Languages_Touch: []
+    - Term: READY
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chu\u1EA9n b\u1ECB"
+      - READY
+      Flags: 
+      Languages_Touch: []
+    - Term: UNREADY
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1ECF chu\u1EA9n b\u1ECB"
+      - UNREADY
+      Flags: 
+      Languages_Touch: []
+    - Term: INVITE
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u1EDDi"
+      - INVITE
+      Flags: 
+      Languages_Touch: []
+    - Term: LEAVE
+      TermType: 0
+      Description: 
+      Languages:
+      - "THO\xC1T"
+      - LEAVE
+      Flags: 
+      Languages_Touch: []
+    - Term: DAILY MISSION REWARDS
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ph\u1EA7n th\u01B0\u1EDFng nhi\u1EC7m v\u1EE5 h\u1EB1ng ng\xE0y"
+      - DAILY MISSION REWARDS
+      Flags: 
+      Languages_Touch: []
+    - Term: Complete All Daily Missions
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ho\xE0n th\xE0nh t\u1EA5t c\u1EA3 nhi\u1EC7m v\u1EE5 \u0111\u1EC3 nh\u1EADn
+        th\u01B0\u1EDFng "
+      - Complete All Daily Missions
+      Flags: 
+      Languages_Touch: []
+    - Term: TUTORIAL
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\u01B0\u1EDBng d\u1EABn"
+      - TUTORIAL
+      Flags: 
+      Languages_Touch: []
+    - Term: PLAY TUTORIAL WILL NOT RECIVE ANY REWARE .
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ch\u01A1i m\xE0n h\u01B0\u1EDBng d\u1EABn s\u1EBD kh\xF4ng nh\u1EADn \u0111\u01B0\u1EE3c
+        ph\u1EA7n th\u01B0\u1EDFng"
+      - PLAY TUTORIAL WILL NOT RECIVE ANY REWARE .
+      Flags: 
+      Languages_Touch: []
+    - Term: CHOOSE EVENT
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ch\u1ECDn ch\u1EBF \u0111\u1ED9"
+      - CHOOSE EVENT
+      Flags: 
+      Languages_Touch: []
+    - Term: COMING SOON
+      TermType: 0
+      Description: 
+      Languages:
+      - "S\u1EAFp C\xF3"
+      - COMING SOON
+      Flags: 
+      Languages_Touch: []
+    - Term: GOOD LUCK AND HAVE FUN
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ch\xFAc b\u1EA1n may m\u1EAFn v\xE0 c\xF3 ph\xFAt gi\xE2y vui nh\u1ED9n"
+      - GOOD LUCK AND HAVE FUN
+      Flags: 
+      Languages_Touch: []
+    - Term: LET'S PLAY !!!
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\xC0O TR\u1EACN !!!"
+      - LET'S PLAY !!!
+      Flags: 
+      Languages_Touch: []
+    - Term: HIDER
+      TermType: 0
+      Description: 
+      Languages:
+      - "TR\u1ED0N"
+      - HIDER
+      Flags: 
+      Languages_Touch: []
+    - Term: You are
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EA1n l\xE0"
+      - You are
+      Flags: 
+      Languages_Touch: []
+    - Term: SEEKER
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\xCCM"
+      - SEEKER
+      Flags: 
+      Languages_Touch: []
+    - Term: OVER!
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\u1EBET TR\u1EACN!"
+      - OVER!
+      Flags: 
+      Languages_Touch: []
+    - Term: VICTORY
+      TermType: 0
+      Description: 
+      Languages:
+      - "Th\u1EAFng"
+      - VICTORY
+      Flags: 
+      Languages_Touch: []
+    - Term: 'EXP:'
+      TermType: 0
+      Description: 
+      Languages:
+      - "Kinh nghi\u1EC7m:"
+      - 'EXP:'
+      Flags: 
+      Languages_Touch: []
+    - Term: 'GOLD:'
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\xE0ng:"
+      - 'GOLD:'
+      Flags: 
+      Languages_Touch: []
+    - Term: 'CUP:'
+      TermType: 0
+      Description: 
+      Languages:
+      - "Huy hi\u1EC7u:"
+      - 'CUP:'
+      Flags: 
+      Languages_Touch: []
+    - Term: 'LEVEL:'
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\u1EA5p \u0111\u1ED9:"
+      - 'LEVEL:'
+      Flags: 
+      Languages_Touch: []
+    - Term: LilitaOne-Regular Outline 72 SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - Pusia-Bold SDF
+      - LilitaOne-Regular Outline 72 SDF
+      Flags: 
+      Languages_Touch: []
+    - Term: LOSE
+      TermType: 0
+      Description: 
+      Languages:
+      - THUA
+      - LOSE
+      Flags: 
+      Languages_Touch: []
+    - Term: TAP TO NEXT
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nh\u1EA5n m\xE0n h\xECnh \u0111\u1EC3 ti\u1EBFp t\u1EE5c"
+      - TAP TO NEXT
+      Flags: 
+      Languages_Touch: []
+    - Term: Loading ...
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110ang t\u1EA3i ..."
+      - Loading ...
+      Flags: 
+      Languages_Touch: []
+    - Term: Roboto-Bold
+      TermType: 1
+      Description: 
+      Languages:
+      - Pusia-Bold
+      - Roboto-Bold
+      Flags: 
+      Languages_Touch: []
+    - Term: "Ch\u1EA1m \u0111\u1EC3 ti\u1EBFp t\u1EE5c"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ch\u1EA1m \u0111\u1EC3 ti\u1EBFp t\u1EE5c"
+      - Touch To Continue
+      Flags: 
+      Languages_Touch: []
+    - Term: TitilliumWeb-Black
+      TermType: 1
+      Description: 
+      Languages:
+      - Pusia-Bold
+      - LilitaOne-Regular
+      Flags: 
+      Languages_Touch: []
+    - Term: MUSIC
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nh\u1EA1c"
+      - MUSIC
+      Flags: 
+      Languages_Touch: []
+    - Term: On
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EADt"
+      - On
+      Flags: 
+      Languages_Touch: []
+    - Term: Off
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u1EAFt"
+      - Off
+      Flags: 
+      Languages_Touch: []
+    - Term: "X\xC1C NH\u1EACN"
+      TermType: 0
+      Description: 
+      Languages:
+      - "X\xC1C NH\u1EACN"
+      - DONE
+      Flags: 
+      Languages_Touch: []
+    - Term: GO!
+      TermType: 0
+      Description: 
+      Languages:
+      - "\xD0I!"
+      - GO!
+      Flags: 
+      Languages_Touch: []
+    - Term: LilitaOne-Regular SDF1
+      TermType: 9
+      Description: 
+      Languages:
+      - Pusia-Bold SDF
+      - LilitaOne-Regular Outline 72 SDF
+      Flags: 
+      Languages_Touch: []
+    - Term: GATE OPEN SOON!
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\u1ED4NG S\u1EAEP M\u1EDE!"
+      - GATE OPEN SOON!
+      Flags: 
+      Languages_Touch: []
+    - Term: Loading...
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110ang t\u1EA3i ..."
+      - Loading ...
+      Flags: 
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: Viet Nam
+      Code: vi
+      Flags: 0
+    - Name: English
+      Code: en
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbwCERpddB00lc0wkiHxXk4QUSWeNRaJkkjeFD-O8Q_V0G38SYIiHKT9/exec
+    Google_SpreadsheetKey: 1HCFpBiQyjIFa8U3Hz1Ntny1v1HEnxeCMmiWhJ48QtiE
+    Google_SpreadsheetName: I2Loc Hide And Seek Localization
+    Google_LastUpdatedVersion: 1611302887323
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
